@@ -1,0 +1,22 @@
+{
+  "name": "microservices-redis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.13.0",
+    "nanoid": "^5.1.3",
+    "request": "^2.88.2",
+    "swagger-ui-express": "^5.0.1"
+  }
+}

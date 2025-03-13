@@ -1,0 +1,9 @@
+# Dependencies
+node_modules
+
+# Docker volume data
+mysql_data
+
+# Env files
+.DS_Store
+.env
